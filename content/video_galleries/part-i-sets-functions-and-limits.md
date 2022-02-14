@@ -1,7 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
 title: 'Part I: Sets, Functions, and Limits'
+type: SupplementalResourceSection
 uid: 6cd3429a-faae-5ff0-d752-ede8e09c4f94
 videos:
   content:

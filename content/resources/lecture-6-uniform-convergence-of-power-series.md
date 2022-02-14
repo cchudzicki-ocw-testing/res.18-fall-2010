@@ -2,6 +2,26 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Part VII: Infinite Series'
+parent_type: SupplementalResourceSection
+related_resources_text: 'This section contains documents that are inaccessible to
+  screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Part V, VI & VII Study Guide ([PDF - 35MB](resources/mitres_18_006_study_5_6_7 "Open
+  in a new window.")){{< sup "#" >}}
+
+
+  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
+  a new window.")){{< sup "#" >}}
+
+
+  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
+  window.")){{< sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Uniform Convergence of Power Series'
 uid: ebe6c183-e0f0-f9ef-f982-1706bba099ea

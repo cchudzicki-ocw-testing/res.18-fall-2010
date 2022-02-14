@@ -2,6 +2,26 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Part I: Sets, Functions, and Limits'
+parent_type: SupplementalResourceSection
+related_resources_text: 'This section contains documents that are inaccessible to
+  screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Part I Study Guide ([PDF - 22MB](resources/mitres_18_006_study_1 "Open in a new
+  window.")){{< sup "#" >}}
+
+
+  Supplementary Notes ([PDF - 46MB](resources/mitres_18_006_supp_notes-1 "Open in
+  a new window.")){{< sup "#" >}}
+
+
+  Blackboard Photos ([PDF - 8MB](resources/mitres_18_006_blackboard-1 "Open in a new
+  window.")){{< sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Analytic Geometry'
 uid: 4678cc21-24be-9b7c-1ad6-f1b7d94d1d36

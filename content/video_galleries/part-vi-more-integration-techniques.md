@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: 'Part VI: More Integration Techniques'
-type: SupplementalResourceSection
 uid: 59524604-fe7e-9cbd-4faa-69e293055aa9
 videos:
   content:

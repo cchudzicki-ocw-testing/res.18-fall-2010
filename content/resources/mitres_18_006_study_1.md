@@ -8,6 +8,5 @@ parent_title: 'Part I: Sets, Functions, and Limits'
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_006_study_1.pdf
-type: OCWFile
 uid: cba2eb02-73c5-7374-4fdb-de1e02ebe34a
 ---

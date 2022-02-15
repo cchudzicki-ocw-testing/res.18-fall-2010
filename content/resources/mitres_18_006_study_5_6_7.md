@@ -8,6 +8,5 @@ parent_title: 'Part V: Transcendental Functions'
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_006_study_5_6_7.pdf
-type: OCWFile
 uid: 481c9e6e-a760-6cd1-73c9-cf506196b4e6
 ---

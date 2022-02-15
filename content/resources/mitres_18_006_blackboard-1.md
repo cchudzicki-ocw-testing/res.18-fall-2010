@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES_18_006_blackboard.pdf
-type: OCWFile
 uid: e1a370b9-90bf-5730-08ff-c949160ef3bb
 ---

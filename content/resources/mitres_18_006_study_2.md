@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: Part II Study Guide
-type: OCWFile
 uid: bfe611ab-f442-b1dd-1dc1-0d0d2c58f41d
 ---

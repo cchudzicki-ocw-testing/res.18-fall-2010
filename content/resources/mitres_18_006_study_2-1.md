@@ -8,6 +8,5 @@ parent_title: 'Part II: Differentiation'
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_006_study_2.pdf
-type: OCWFile
 uid: 83e2b311-5dde-903d-538a-bdd1b0945103
 ---

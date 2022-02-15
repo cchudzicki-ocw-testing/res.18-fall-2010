@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: 'Part V: Transcendental Functions'
-type: SupplementalResourceSection
 uid: 15b1cc08-b5f8-362a-0228-689f45db1cd6
 videos:
   content:

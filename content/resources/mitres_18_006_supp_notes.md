@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: Supplementary Notes
-type: OCWFile
 uid: df95386a-043a-de9c-186c-403e109240de
 ---

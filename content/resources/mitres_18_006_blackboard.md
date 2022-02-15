@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: Blackboard Photos
-type: OCWFile
 uid: f9ed1bae-7732-54ee-f96e-9c5d488226f4
 ---

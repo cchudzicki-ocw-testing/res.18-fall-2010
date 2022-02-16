@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/cba2eb0273c573744fdbde1e02ebe34a_MITRES_18_006_study_1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Part I: Sets, Functions, and Limits'
 parent_type: SupplementalResourceSection
 resourcetype: Document

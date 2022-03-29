@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -24,6 +25,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Continuity'
 uid: b9f0b129-bfab-0fe0-3e5a-91ad22f1606d
 video_files:

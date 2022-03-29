@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -24,6 +25,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Derivatives and Limits'
 uid: 59190e0f-44c2-42e0-6d81-facc57aa759e
 video_files:

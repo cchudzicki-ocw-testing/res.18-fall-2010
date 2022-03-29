@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -24,6 +25,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Maxima and Minima'
 uid: a042e54d-7239-47e6-f05a-9c0e97a32c14
 video_files:

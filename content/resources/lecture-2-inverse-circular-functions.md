@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -24,6 +25,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Inverse Circular Functions'
 uid: 6c50674d-4619-6137-f49b-3d39797e55b6
 video_files:

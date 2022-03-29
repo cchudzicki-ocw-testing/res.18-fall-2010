@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -24,6 +25,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Positive Series'
 uid: e70588e4-9a76-031d-dc89-509aff709adc
 video_files:

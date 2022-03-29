@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -430,6 +431,7 @@ resource_index_text: '<p>ANNOUNCER: The following content is provided under a Cr
   by the Gabriella and Paul Rosenbaum Foundation.</p><p>Help OCW continue to provide
   free and open access to MIT courses by making a donation at ocw.mit.edu/donate.</p>'
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Functions'
 uid: 3c90b4b4-0b40-908c-d847-35d0988b1f6d
 video_files:

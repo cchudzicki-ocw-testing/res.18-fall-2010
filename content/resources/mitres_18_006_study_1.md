@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: Sets, Functions, and Limits'
 parent_type: SupplementalResourceSection
+parent_uid: 6cd3429a-faae-5ff0-d752-ede8e09c4f94
 resourcetype: Document
 title: MITRES_18_006_study_1.pdf
 uid: cba2eb02-73c5-7374-4fdb-de1e02ebe34a

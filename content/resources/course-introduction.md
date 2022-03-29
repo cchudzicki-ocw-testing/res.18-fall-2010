@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -9,6 +10,7 @@ optional_text: ''
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Course Introduction
 uid: 71d3c4e5-af5d-3096-2a77-926390116050
 video_files:

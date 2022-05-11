@@ -8,7 +8,7 @@ uid: d57d3648-3881-f3d9-61c4-963af391b2fb
 ---
 In addition to the videos, the following study materials are available:
 
-**Supplementary Notes**: Prerequisite materials, detailed proofs, and deeper treatments of selected topics ({{% resource_link "c9d22d9b-dc27-d88b-4ad2-a068d523582b" "PDF - 46MB" %}})
+**Supplementary Notes**: Prerequisite materials, detailed proofs, and deeper treatments of selected topics ([PDF](/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/MITRES_18_006_supp_notes.pdf) 
 
 **Study Guides**: Exercises with solutions, including a pre-test for each topic
 

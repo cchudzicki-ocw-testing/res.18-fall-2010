@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The theory of inverse functions applied to the hyperbolic functions; some formulas for differentiation and integration; some applications.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

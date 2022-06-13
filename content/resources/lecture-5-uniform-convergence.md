@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Pointwise convergence versus uniform convergence; some important consequences of uniform convergence; applications of uniform convergence to the study of power series.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Instantaneous speed as an outgrowth of average speed; definition of limi; instantaneous speed as a limit; the formal definition of limit and some consequences.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

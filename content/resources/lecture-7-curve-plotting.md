@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Basic pre-calculus review; even and odd functions and other symmetries; the role of the first and second derivatives in curve plotting; stationary points; inflections.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

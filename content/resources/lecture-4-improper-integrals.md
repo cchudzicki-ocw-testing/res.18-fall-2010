@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The problem of trying to study the integral of f(x)dx when f(x) is not continuous on the interval \[a,b\]; what happens if the limits of integration are not finite; importance of improper integrals.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The invertibility of the logarithmic function; e to the x as the inverse of ln x; a dicussion of exponential functions; some applications.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

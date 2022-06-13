@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** First Fundamental Theorem of Integral Calculus; some applications; Second Fundamental Theorem of Integral Calculus; some applications; significance of the two theorems.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

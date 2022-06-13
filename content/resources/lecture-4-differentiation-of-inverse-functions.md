@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The concept of an inverse function; differentiation of an inverse function; when is a function invertible?
 
 **Instructor/speaker:** Prof. Herbert Gross
+

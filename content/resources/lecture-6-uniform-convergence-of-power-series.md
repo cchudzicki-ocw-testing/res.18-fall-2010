@@ -42,3 +42,4 @@ video_metadata:
 **Instructor/speaker:** Prof. Herbert Gross
 
 Ready to move on to Calculus II: Functions of Several Variables? Professor Gross has posted links to the next videos in the series on his [Mathematics As A Second Language](http://www.adjectivenounmath.com/index.html) website.
+

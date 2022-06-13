@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Statement of Rolle's Theorem; a geometric interpretation; some cautions; the Mean Value Theorem; consequences of the Mean Value Theorem.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Hyperbolic functions; comparisons with circular functions; relationship between hyperbolic functions and exponential functions; applications of calculus to hyperbolic functions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

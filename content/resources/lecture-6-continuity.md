@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Physical interpretation of continuity; the definition of continuity in terms of limits; a geometric interpretation of continuity; analytic consequences.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

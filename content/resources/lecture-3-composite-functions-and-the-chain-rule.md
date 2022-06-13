@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Composition of functions; a graphical interpretation; applications to parametric equations; using the chain rule to extend the concept of finding derivatives.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

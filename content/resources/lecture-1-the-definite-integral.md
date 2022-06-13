@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Axiomatic approach to area; area approximations by upper and lower bounds; the method of exhaustion; using limits to find areas of nonrectilinear regions; piecewise continuity; trapezoidal approximations.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

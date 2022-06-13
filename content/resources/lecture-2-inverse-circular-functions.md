@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Meaning of arc sin x in terms of the sine function; the derivative of arc sin x in terms of the derivative of sin x; some applications.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Trigonometric functions without angles; the logic of radian measure; definition of circular functions; derivatives of sin x and cos x.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The meaning of the definite integral as g(b) - g(a) where g'(x) = f(x); some applications.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

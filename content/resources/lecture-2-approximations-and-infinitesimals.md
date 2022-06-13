@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Approximating delta y by f(x) delta x; discussion of that difference between delta y and f'(x) delta x; introduction to the chain rule.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

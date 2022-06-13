@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Extending the axioms of area to volume; some applications; the method of cylindrical shells.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

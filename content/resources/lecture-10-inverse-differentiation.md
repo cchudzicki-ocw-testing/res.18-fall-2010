@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The "opposite" of differentiation; trying to find f(x) knowing f'(x); some examples; some formulas; notation.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Using the identity d(uv) = udv + vdu to find the integral of udv knowing the integral of vdu; using the technique to evaluate certain integrals; reduction formulas; some applications.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

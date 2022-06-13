@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Definition of derivative; the derivative of x to the n where n is an integer; derivatives of sums, differences, products, and quotients.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

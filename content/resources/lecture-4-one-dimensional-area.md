@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The main difference between arc-length and either area or volume; the limit definition of arc-length; approximating errors and their magnitude when we use infinite sums.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

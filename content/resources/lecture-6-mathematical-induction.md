@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The meaning of mathematical induction; some examples of what mathematical induction is and isn't; applications to limit theorems.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

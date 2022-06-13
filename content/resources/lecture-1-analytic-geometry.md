@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** Cartesian coordinates; curves as sets of points; graphs of functions; equations of straight lines; simultaneous linear equations.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

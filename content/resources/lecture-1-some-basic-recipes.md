@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** A review and extension of previous results for finding f(x) knowing f'(x); paricular emphasis on the case where f'(x) involves the sum and/or difference of two squares; completing the square.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

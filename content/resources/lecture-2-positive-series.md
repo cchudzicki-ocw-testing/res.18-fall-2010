@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** The special case wherein each term in the series is non-negative; the concept of convergence; the comparision test; the ratio test; the integral test.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

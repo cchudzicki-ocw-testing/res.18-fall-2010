@@ -40,3 +40,4 @@ video_metadata:
 **Topics covered:** A continuation of the previous lecture; important limit properties are developed as theorems from the formal definiton of limit.
 
 **Instructor/speaker:** Prof. Herbert Gross
+

@@ -47,3 +47,4 @@ Professor Gross introduces the course consisting of:
 \*Note: The course makes reference to the out-of-print textbook cited below, but any newer textbook will suffice to expand on topics covered in the video lectures. 
 
 Thomas, George B. _Calculus and Analytic Geometry._ Reading, Mass: Addison-Wesley, 1968. ISBN: 9780201075250
+

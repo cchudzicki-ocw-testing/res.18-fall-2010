@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: This page includes study materials.
+description: ''
 draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
